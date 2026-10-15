@@ -1,3 +1,44 @@
+## Power BI Dashboard
+
+### 1. Platforma holati
+
+![Platforma Holati](screenshots/page_01_platforma_holati.png)
+
+### 2. Kategoriya iqtisodi
+
+![Kategoriya iqtisodi](screenshots/page_02_kategoriya_iqtisodi.png)
+
+### 3. To‘lov va bekor qilish
+
+![To‘lov va bekor qilish](screenshots/page_03_tolov_bekor_qilish.png)
+
+### 4. Yetkazib berish va sifat
+
+![Yetkazib berish va sifat](screenshots/page_04_yetkazib_berish.png)
+
+### 5. Mijoz va marketing
+
+![Mijoz va marketing](screenshots/page_05_mijoz_marketing.png)
+
+### 6. Geografik iqtisod
+
+![Geografik iqtisod](screenshots/page_06_geografik_iqtisod.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # BozorBoz Marketplace Analytics
 
 End-to-end data analytics project for a marketplace business using **SQL Server** and **Power BI**.
@@ -322,3 +363,7 @@ bozorboz-marketplace-analysis/
 │
 └── presentation/
     └── findings_recommendations.md
+
+
+
+
